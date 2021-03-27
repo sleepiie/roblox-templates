@@ -1,6 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
-# Ignore all files except Lua
-* linguist-vendored
-*.lua linguist-vendored=false
