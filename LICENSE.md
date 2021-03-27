@@ -34,4 +34,7 @@ copyright because anyone can use them. If you uncopylock your
 place, then it is released into the public domain for anyone to
 do whatever they want with it.
 
+The agreement:
+https://raw.githubusercontent.com/sleepiie/roblox-templates/main/saved/uncopylock-agreement.png
+
 -->
